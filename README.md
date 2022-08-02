@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here is a Tongji University SE(Software Engineering) student about to graduate in 2024
+
+I'm interested in system software, including os, database, distributed system, etc.
+
+[知乎](https://www.zhihu.com/people/StevenXcLiu) | [Leetcode](https://leetcode.cn/u/lxc656-z/)
