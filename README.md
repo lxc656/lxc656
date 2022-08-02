@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here is a Tongji University SE(Software Engineering) student about to graduate in 2024
+Here is a Tongji University SE(Software Engineering) undergraduate (about to graduate in 2024)
 
 I'm interested in system software, including os, database, distributed system, etc.
 
