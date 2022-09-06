@@ -21,4 +21,4 @@ I'm interested in system software, including os, compiler, database, distributed
 
 Currently intern @NVIDIA (Tegra System Arch)
 
-[知乎](https://www.zhihu.com/people/StevenXcLiu) | [Leetcode](https://leetcode.cn/u/lxc656-z/) | [Linkedin](https://www.linkedin.com/in/xiaochen-liu-1a09a1237/)
+[知乎](https://www.zhihu.com/people/StevenXcLiu) | [Leetcode](https://leetcode.cn/u/lxc656-z/) | [LinkedIn](https://www.linkedin.com/in/xiaochen-liu-1a09a1237/)
