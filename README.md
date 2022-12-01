@@ -19,4 +19,6 @@ Here is a Tongji University SE(Software Engineering) undergraduate (about to gra
 
 I'm interested in system software, including os, compiler, database, distributed system, etc.
 
+Currently intern @NVIDIA (Tegra Applied Arch Team)
+
 [知乎](https://www.zhihu.com/people/StevenXcLiu) | [Leetcode](https://leetcode.cn/u/lxc656-z/) | [LinkedIn](https://www.linkedin.com/in/xiaochen-liu-1a09a1237/)
