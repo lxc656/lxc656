@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 Here is a Tongji University SE(Software Engineering) undergraduate (about to graduate in 2024)
 
-I'm interested in system software, including os, compiler, database, distributed system, etc.
+I'm interested in system software, including os, compiler, GPU architecture, etc.
 
-Currently intern @NVIDIA(Tegra Applied Arch Team)
+System Architect @NVIDIA(Graphics Arch Team)
 
 [知乎](https://www.zhihu.com/people/StevenXcLiu) | [Leetcode](https://leetcode.cn/u/lxc656-z/) | [LinkedIn](https://www.linkedin.com/in/xiaochen-liu-1a09a1237/)
