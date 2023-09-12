@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here is a Tongji University SE(Software Engineering) undergraduate (about to graduate in 2024)
-
-I'm interested in system software, including os, compiler, GPU architecture, etc.
-
 System Architect @NVIDIA(Graphics Arch Team)
 
-[知乎](https://www.zhihu.com/people/StevenXcLiu) | [Leetcode](https://leetcode.cn/u/lxc656-z/) | [LinkedIn](https://www.linkedin.com/in/xiaochen-liu-1a09a1237/)
+Tongji University Software Engineering'24
+
+Interested in system software, including os, compiler, GPU architecture, etc.
+
+[知乎](https://www.zhihu.com/people/StevenXcLiu) | [LinkedIn](https://www.linkedin.com/in/xiaochen-steven-liu-1a09a1237/)
