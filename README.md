@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-System Architect @NVIDIA(Graphics Arch Team)
+System Architect @NVIDIA (Graphics Arch Team)
 
 Tongji University Software Engineering'24
 
