@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-System Architect @NVIDIA (Graphics Arch Team)
+Architect @NVIDIA
 
 Tongji University Software Engineering'24
 
-Interested in system software, including os, compiler, GPU architecture, etc.
+Working on Tegra SoC architecture performance profiling.
+
+Interested in system software fileld, including compiler, binary translation, static analysis, OS, etc.
+
+Also interested in computer architecture field, especially GPU architecture.
 
 [知乎](https://www.zhihu.com/people/StevenXcLiu) | [LinkedIn](https://www.linkedin.com/in/xiaochen-steven-liu-1a09a1237/)
