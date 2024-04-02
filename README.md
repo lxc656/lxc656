@@ -19,7 +19,7 @@ Architect @NVIDIA
 
 Tongji University Software Engineering'24
 
-Working on Tegra SoC architecture performance profiling.
+Working on Tegra SoC architecture performance profiling and tuning.
 
 Interested in system software fileld, including compiler, binary translation, static analysis, OS, etc.
 
