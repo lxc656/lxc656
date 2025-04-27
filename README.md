@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Architect @NVIDIA
+SoC Performance Architect @NVIDIA
 
-Tongji University Software Engineering'24
+Graduated from Tongji University Software Engineering in 2024.
 
-Working on Tegra SoC architecture performance profiling and tuning.
+Working on GPU architecture design investigation and SoC system level performance profiling for next-generation super SoC.
 
-Interested in system software fileld, including compiler, binary translation, static analysis, OS, etc.
+Interested in system software fileld, including compiler, OS, AI System, etc.
 
-Also interested in computer architecture field, especially GPU architecture.
+Also interested in computer architecture field, especially GPU and CPU architecture.
 
 [知乎](https://www.zhihu.com/people/StevenXcLiu) | [LinkedIn](https://www.linkedin.com/in/xiaochen-steven-liu-1a09a1237/)
